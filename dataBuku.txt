@@ -1,0 +1,10 @@
+1234-5678, John Doe, Pemrograman Python, 2021-01-15, Tech Press, 150000
+2345-6789, Jane Smith, Data Science untuk Pemula, 2022-03-10, Data Insights, 200000
+3456-7890, Alex Johnson, Dasar-Dasar Learning Machine, 2020-05-20, AI Books, 250000
+4567-8901, Maria Garcia, Statistik Terapan, 2019-07-30, Stat Press, 180000
+5678-9012, Michael Brown, Keamanan Siber, 2023-02-25, Cyber Security Press, 220000
+6789-0123, Emily Davis, Blockchain untuk Bisnis, 2022-11-15, Blockchain Publishing, 275000
+7890-1234, David Wilson, Pengantar Cloud Computing, 2021-08-05, Cloud Books, 230000
+8901-2345, Sarah Miller, Internet of Things, 2023-04-18, IoT Press, 240000
+9012-3456, Christopher Martinez, Desain Antarmuka Pengguna, 2020-09-12, UX Books, 190000
+0123-4567, Linda Taylor, Teknologi 5G, 2023-06-30, Future Tech Press, 300000
